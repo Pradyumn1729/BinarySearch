@@ -1,0 +1,7 @@
+note that in a binary search algorithm ,we can see that the height of the tree represents 
+the maximum number of iterations required to search the key in the array 
+
+also,we need to note that logn with base 2 represents the height of tree ,where n is the number of elements 
+in the array 
+
+if we have 16 elements in the array then the iterartions would be log base 2 of 16 ,that is 4 

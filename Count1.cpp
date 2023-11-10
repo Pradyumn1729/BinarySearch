@@ -12,7 +12,7 @@ int Count1(int arr[], int n) {
             if (mid == 0 || arr[mid] != arr[mid - 1])
                 return (n - mid);
             else
-                high = mid - 1;
+                high = mid - 1; 
         }
     }
     return 0;
